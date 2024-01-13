@@ -30,6 +30,7 @@ github_username:  appshbrockmann
 theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
+  - faraday-retry
 
 # Exclude from processing.
 # The following items will not be processed, by default.
