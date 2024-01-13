@@ -27,7 +27,7 @@ twitter_username:
 github_username:  appshbrockmann
 
 # Build settings
-theme: time-machine
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
