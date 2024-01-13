@@ -27,10 +27,9 @@ twitter_username:
 github_username:  appshbrockmann
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: minimal
 plugins:
   - jekyll-feed
-  - faraday-retry
 
 # Exclude from processing.
 # The following items will not be processed, by default.
