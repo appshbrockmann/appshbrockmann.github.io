@@ -6,4 +6,4 @@ categories: Meerschweinchen Tim
 ---
 # Tim gekauft
 
-Heuter habe ich Tim gekauft.
+Heute habe ich Tim gekauft.
