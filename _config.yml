@@ -35,11 +35,13 @@ kramdown:
 #theme: minima
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #theme: "jekyll-theme-so-simple"
-skin: "/assets/css/skins/dark.css"
 
 plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-analytics
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -64,6 +66,7 @@ plugins:
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 #minima:
+#skin: "/assets/css/skins/dark.css"
 date_format: "%d.%m.%Y"
 locale: "de-CH"
 logo: "/images/logo.png"
@@ -74,4 +77,7 @@ paginate_path: /page:num/
 search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
-google_analyticss: G-6SPJ61M57P
+jekyll_analyticss:
+  Matomo:
+    url: www.hermann-brockmann.ch/matomo
+    siteId: "1"
