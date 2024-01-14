@@ -33,7 +33,10 @@ kramdown:
 
 # Build settings
 #theme: minima
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: "jekyll-theme-so-simple"
+skin: "/assets/css/skins/dark.css"
+
 plugins:
   - jekyll-paginate
   - jekyll-feed
@@ -62,3 +65,5 @@ plugins:
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 #minima:
 date_format: "%d.%m.%Y"
+locale: "de-CH"
+logo: "/images/logo.png"
