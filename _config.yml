@@ -67,3 +67,11 @@ plugins:
 date_format: "%d.%m.%Y"
 locale: "de-CH"
 logo: "/images/logo.png"
+read_time: true
+words_per_minute: 200
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
+search_full_content: true
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+google_analyticss: G-6SPJ61M57P
