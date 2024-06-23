@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Webseite von Hermann",
     "description": "",
-    "home_page_url": "http://git.hermann-brockmann.ch",
-    "feed_url": "http://git.hermann-brockmann.ch/feed.json",
+    "home_page_url": "https://git.hermann-brockmann.ch",
+    "feed_url": "https://git.hermann-brockmann.ch/feed.json",
     "user_comment": "",
     "author": {
         "name": "Hermann"
     },
     "items": [
         {
-            "id": "http://git.hermann-brockmann.ch/new-post.html",
-            "url": "http://git.hermann-brockmann.ch/new-post.html",
+            "id": "https://git.hermann-brockmann.ch/new-post.html",
+            "url": "https://git.hermann-brockmann.ch/new-post.html",
             "title": "New Post",
             "summary": "New Post as in new There will be something",
             "content_html": "\n    <h2 id=\"new-post-as-in-new\">\n      New Post as in new\n    </h2>\n\n  <p>\n    There will be something\n  </p>",
