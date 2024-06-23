@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Webseite von Hermann",
+    "description": "",
+    "home_page_url": "http://git.hermann-brockmann.ch",
+    "feed_url": "http://git.hermann-brockmann.ch/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hermann"
+    },
+    "items": [
+    ]
+}

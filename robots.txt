@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://git.hermann-brockmann.ch/sitemap.xml
