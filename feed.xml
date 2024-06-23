@@ -3,10 +3,37 @@
     <title>Webseite von Hermann</title>
     <link href="http://git.hermann-brockmann.ch/feed.xml" rel="self" />
     <link href="http://git.hermann-brockmann.ch" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-06-23T23:46:07+02:00</updated>
     <author>
         <name>Hermann</name>
     </author>
     <id>http://git.hermann-brockmann.ch</id>
 
+    <entry>
+        <title>New Post</title>
+        <author>
+            <name>Hermann</name>
+        </author>
+        <link href="http://git.hermann-brockmann.ch/new-post.html"/>
+        <id>http://git.hermann-brockmann.ch/new-post.html</id>
+
+        <updated>2024-06-23T23:45:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    New Post as in new There will be something
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="new-post-as-in-new">
+      New Post as in new
+    </h2>
+
+  <p>
+    There will be something
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

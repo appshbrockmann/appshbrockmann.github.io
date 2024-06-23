@@ -9,5 +9,19 @@
         "name": "Hermann"
     },
     "items": [
+        {
+            "id": "http://git.hermann-brockmann.ch/new-post.html",
+            "url": "http://git.hermann-brockmann.ch/new-post.html",
+            "title": "New Post",
+            "summary": "New Post as in new There will be something",
+            "content_html": "\n    <h2 id=\"new-post-as-in-new\">\n      New Post as in new\n    </h2>\n\n  <p>\n    There will be something\n  </p>",
+            "author": {
+                "name": "Hermann"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-23T23:45:17+02:00",
+            "date_modified": "2024-06-23T23:46:07+02:00"
+        }
     ]
 }
