@@ -32,9 +32,9 @@ kramdown:
   input: GFM
 
 # Build settings
-#theme: minima
-remote_theme: "mmistakes/so-simple-theme"
-theme: "jekyll-theme-so-simple"
+theme: minima
+#remote_theme: "mmistakes/so-simple-theme"
+#theme: "jekyll-theme-so-simple"
 skin: "/assets/css/skins/dark.css"
 
 plugins:
