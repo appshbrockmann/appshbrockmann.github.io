@@ -40,6 +40,9 @@ skin: "/assets/css/skins/light.css"
 plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-analytics
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -64,6 +67,19 @@ plugins:
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 #minima:
+skin: "/assets/css/skins/light.css"
 date_format: "%d.%m.%Y"
-locale: "de-CH"
+site.locale: de-CH
+lang: de-CH
 logo: "/images/logo.png"
+read_time: true
+words_per_minute: 200
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
+search_full_content: true
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+jekyll_analyticss:
+  Matomo:
+    url: www.hermann-brockmann.ch/matomo
+    siteId: "1"
