@@ -8,7 +8,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #gem "jekyll", "~> 4.3.1"
-gem "github-pages", "~> 228", group: :jekyll_plugins
+gem 'jekyll', '~> 3.10'
+gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "webrick"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima"
@@ -19,6 +20,7 @@ gem "jekyll-theme-so-simple"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-gist', '~> 1.5'
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem 'jekyll-seo-tag'

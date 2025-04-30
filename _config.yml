@@ -41,7 +41,6 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-analytics
   - jekyll-seo-tag
 
 # Exclude from processing.
