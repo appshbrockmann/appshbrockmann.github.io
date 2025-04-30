@@ -1,0 +1,5 @@
+{% for page in site.pages %}
+    {% if page.layout == "page" %}
+        <a href="{{page.permalink}}">{{page.title}}</a>
+    {% endif %}
+{% endfor %}
