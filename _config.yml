@@ -31,16 +31,19 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Build settings
-#theme: minima
-theme: minimal-mistakes-jekyll
-
-#remote_theme: "mmistakes/so-simple-theme"
-#theme: "jekyll-theme-so-simple"
-skin: "/assets/css/skins/light.css"
-
 plugins:
   - jekyll-paginate
+  - jekyll-data
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -71,6 +74,7 @@ plugins:
 skin: "/assets/css/skins/light.css"
 date_format: "%d.%m.%Y"
 site.locale: de-CH
+locale: "de-CH"
 lang: de-CH
 logo: "/images/logo.png"
 read_time: true
@@ -80,3 +84,16 @@ paginate_path: /page:num/
 search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
