@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Tim gekauft"
 locale: de-CH
 date:   2017-11-09 
