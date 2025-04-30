@@ -79,7 +79,3 @@ paginate_path: /page:num/
 search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
-jekyll_analyticss:
-  Matomo:
-    url: www.hermann-brockmann.ch/matomo
-    siteId: "1"
