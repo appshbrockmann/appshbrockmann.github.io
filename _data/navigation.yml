@@ -1,6 +1,7 @@
-- title: Blog
-  url: /
-- title: Kategorien
-  url: /categories/
-- title: Search
-  url: /search/
+main:
+  - title: Blog
+    url: /
+  - title: Kategorien
+    url: /categories/
+  - title: Search
+    url: /search/
