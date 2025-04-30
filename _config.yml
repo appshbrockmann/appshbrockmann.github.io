@@ -34,7 +34,7 @@ kramdown:
 # Build settings
 #theme: minima
 remote_theme: "mmistakes/so-simple-theme"
-#theme: "jekyll-theme-so-simple"
+theme: "jekyll-theme-so-simple"
 skin: "/assets/css/skins/light.css"
 
 plugins:
