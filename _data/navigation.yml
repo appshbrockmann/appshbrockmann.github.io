@@ -1,7 +1,11 @@
 main:
-  - title: Blog
-    url: /
-  - title: Kategorien
-    url: /categories/
-  - title: Search
-    url: /search/
+  - title: "Über mich"
+    url: /about/
+  - title: "Projekte"
+    url: /projects/
+  - title: "Reiseberichte"
+    url: /reisen/
+  - title: "Fotogalerie"
+    url: /galerie/
+  - title: "Kontakt"
+    url: /kontakt/
