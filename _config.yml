@@ -400,3 +400,11 @@ head_scripts:
 #  - /assets/js/your-custom-footer-script.js
 #after_footer_scripts:
 #  - /assets/js/custom-script-loads-after-footer.js
+
+navigaation:
+    main
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
