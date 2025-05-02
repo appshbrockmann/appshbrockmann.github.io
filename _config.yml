@@ -391,6 +391,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  #projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
 
 
 head_scripts:
