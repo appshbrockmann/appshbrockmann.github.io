@@ -1,16 +1,15 @@
 ---
-title: "Coin Counter"
-excerpt: "Eine App zum prüfen des Kassenstands"
-date: 2024-12-15
+title: "Import Monatsplan"
+excerpt: "Ein Programm um den PDF-Monatsplan in NextCloud zu importieren"
 layout: single
 permalink: /projects/:path/
-tags: [Java, Android]
+tags: [C++, Qt]
 ---
 
 <ul>
 {% for post in site.posts %}
     {% for category in  post.categories %}
-	{% if category == 'CoinCounter' %}
+	{% if category == 'Monatsplan' %}
 	    <li>
 		<a href="{{ post.url }}">{{ post.title }}</a>
 	    </li>
