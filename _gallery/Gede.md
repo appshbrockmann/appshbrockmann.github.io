@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Gede
+excerpt: Meine Reise nach Kenya im Jahre 2001. Die Ruinen von Gede
 permalink: /gallery/Gede
 gallery:
   - url: assets/images/Galerien/Kenya/Gede/WM_kscan_0001.jpg
@@ -17,8 +18,12 @@ gallery:
     image_path: assets/images/Galerien/Kenya/Gede/WM_kscan_0009.tmb.jpg
   - url: assets/images/Galerien/Kenya/Gede/WM_kscan_0010.jpg
     image_path: assets/images/Galerien/Kenya/Gede/WM_kscan_0010.tmb.jpg
+    alt: Ebenholz
+    title: Ebenholz
   - url: assets/images/Galerien/Kenya/Gede/WM_kscan_0011.jpg
     image_path: assets/images/Galerien/Kenya/Gede/WM_kscan_0011.tmb.jpg
+    alt: Ebenholz-Baum
+    title: Ebenholz-Baum
   - url: assets/images/Galerien/Kenya/Gede/WM_kscan_0012.jpg
     image_path: assets/images/Galerien/Kenya/Gede/WM_kscan_0012.tmb.jpg
 ---
