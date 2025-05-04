@@ -3,7 +3,7 @@ layout: single
 title: Gede
 excerpt: Meine Reise nach Kenya im Jahre 2001. Die Ruinen von Gede
 permalink: /gallery/Gede
-date 2001-10-01
+date: 2001-10-01
 categories: [Kenya]
 tags: [Kenya]
 gallery:
