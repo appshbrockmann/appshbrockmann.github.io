@@ -3,6 +3,7 @@ layout: single
 title:  "Luisa gestorben"
 locale: de-CH
 categories: Meerschweinchen Luisa
+tags: Meerschweinchen Luisa
 ---
 # Heute ist unsere Luisa gestorben
 

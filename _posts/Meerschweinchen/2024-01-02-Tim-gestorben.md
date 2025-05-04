@@ -3,6 +3,7 @@ layout: single
 title:  "Tim gestorben"
 locale: de-CH
 categories: Meerschweinchen Tim
+tags: Meerschweinchen Tim
 ---
 # Heute ist unser Tim gestorben
 
