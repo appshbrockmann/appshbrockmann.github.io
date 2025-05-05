@@ -18,3 +18,6 @@ tags: [Java, Android]
     {% endfor %}
 {% endfor %}
 </ul>
+
+
+[![Jetzt bei Google Play](/assets/images/Google/GetItOnGooglePlay_Badge_Web_color_German.png)](https://play.google.com/store/apps/details?id=ch.hb.coincounter){:target="_blank"}

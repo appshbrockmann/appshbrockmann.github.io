@@ -13,3 +13,5 @@ Coin Counter ist eine Android App, mit der ich den Stock meiner Kasse überprüf
 # Erster Test veröffentlicht
 
 Am 05.10.2024 habe ich den ersten Test veröffentlicht.
+
+[![Jetzt bei Google Play](/assets/images/Google/GetItOnGooglePlay_Badge_Web_color_German.png)](https://play.google.com/store/apps/details?id=ch.hb.coincounter){:target="_blank"}
