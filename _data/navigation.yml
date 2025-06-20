@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Projekte"
     url: /projects/
-  - title: "Reiseberichte"
-    url: /reisen/
+#  - title: "Reiseberichte"
+#    url: /reisen/
   - title: "Fotogalerie"
     url: /gallery/
   - title: "Kontakt"
