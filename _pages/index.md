@@ -19,13 +19,13 @@ feature_row:
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Zu den Projekten"
-  - image_path: /assets/images/travel.png
-    alt: "Reisen"
-    title: "Reiseberichte"
-    excerpt: "Erlebnisse und Fotos von unterwegs"
-    url: "/reisen/"
-    btn_class: "btn--accent"
-    btn_label: "Mehr erfahren"
+#  - image_path: /assets/images/travel.png
+#    alt: "Reisen"
+#    title: "Reiseberichte"
+#    excerpt: "Erlebnisse und Fotos von unterwegs"
+#    url: "/reisen/"
+#    btn_class: "btn--accent"
+#    btn_label: "Mehr erfahren"
 ---
 
 {% include feature_row %}
