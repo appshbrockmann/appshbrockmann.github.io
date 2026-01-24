@@ -63,3 +63,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Deploy to Medion Server
+        uses: appleboy/acp-action@master
+        username: ${{ secrets.SSH_USER }}
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        source: "_site/*"
+        target: "/var/www/jekyll_site"
+        strip_components: 1
