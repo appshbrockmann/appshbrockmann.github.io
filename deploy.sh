@@ -10,4 +10,4 @@ git push origin main
 
 # 3. Dateien zum Medion schieben
 # Wir nutzen rsync, um den _site Ordner zu spiegeln
-rsync -rcvz --chmod=D775,F664 --delete _site/ hb@www.hermann-brockmann.ch:/var/www/jekyll_site/
+rsync -rcvz --chmod=D775,F664 --delete _site/ hb@192.168.1.11:/var/www/jekyll_site/
